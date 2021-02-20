@@ -15,3 +15,7 @@ featuredLinks:
 versions: '*'
 ---
 
+Request Id: 41684a9b-bdd9-40ce-aae6-15627f461300
+Correlation Id: 4731acf0-5fc5-418f-87a5-48f5940a814d
+Timestamp: 2021-02-20T19:32:33Z
+Message: AADSTS900561: The endpoint only accepts POST requests. Received a GET request.
